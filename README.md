@@ -1,5 +1,5 @@
 <div display="flex">
-  <img height="185px" align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+  <img height="185px" align="center" src="https://github-readme-stats.vercel.app/api/?username=richardpbCC&theme=dark" />
 </div>
 
 ### 
