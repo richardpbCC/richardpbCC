@@ -3,6 +3,14 @@
   <img height="185px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardpbCC&theme=dark" />
 </div>
 
+</br>
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React.JS-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue.JS-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ### 
 
 <!--
